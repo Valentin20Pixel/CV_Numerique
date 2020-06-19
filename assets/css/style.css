@@ -1,0 +1,39 @@
+body{
+    background-image: url(../img/pcbg.jpg);
+    background-position: relative;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#name{
+    font-family: 'Cinzel Decorative', cursive;
+    color: white;
+    font-size: 70px;
+    margin-top: 425px;
+}
+#pname{
+    color: white;
+    /* font-family: 'Odibee Sans', cursive; */
+    font-family: 'Special Elite', cursive;
+    font-size: 25px;
+}
+#LogoVV{
+    position: absolute;
+    left: 240px;
+    bottom: 165px;
+}
+.bgname{
+    margin-left: 220px;
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+}
+.navbar{
+    opacity: 0.70;
+}
+.nav-item{
+    font-size: 20px;
+    font-weight: 500;
+}

@@ -1,0 +1,19 @@
+/* The background */
+body{
+  background-color: black;
+  z-index: 0;
+}
+#bgim{
+  background-image: url(assets/img/pcbg.jpg);
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+  left: 0;
+  z-index: 1;
+  opacity: 0.1;
+}
+.navbar{
+  z-index: 1;
+
+}
